@@ -1,0 +1,16 @@
+<body class="container">
+    <!-- <header><h2>Buttons that say things when you click them!</h2></header>  -->
+    <!--<main>-->
+        <!-- <button id="complimentButton">Get a compliment</button>
+        <button id="fortuneButton">Click for your fortune!</button>
+        <button id="jokeButton">Tap for a funny!</button>
+        <br>
+        <br>
+        <label id="cool"> Scroll for why humans rule:</label>
+        <select name="cool" id="cool">
+            <option value="reasonOne"> We have billions of neurons that allow us to learn SO MANY THINGS</option>
+            <option value="reasonTwo"> We can make banana bread</option>
+            <option value="reasonThree"> We can surgically remove someones heart & replace it with a new one, like WHAT</option>
+        </select> 
+        <br>
+        <br> -->
